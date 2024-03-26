@@ -7,7 +7,7 @@ This is the frontend part of the Telecom Customer Management System, a web appli
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/sahil-saini28/assingment1.git
+   git clone https://github.com/jitendraReact/Altimetric.git
    ```
 
 2. Install dependencies:
